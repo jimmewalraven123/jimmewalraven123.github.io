@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mijn Website</title>
+    <style>
+        body {
+            background-color: blue;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        
+        header {
+            background-color: white;
+            padding: 20px;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        
+        nav a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+        <nav>
+            <ul>
+                <button> <li><a href="index.html">Home</a> </li></button>
+                <button> <li><a href="kleurmodellen.html">kleurmodellen</a> </li></button>
+                <button> <li><a href="binairstelsel.html">binairstelsel</a> </li></button>
+                <button> <li><a href="contact.html">Contact</a> </li></button>
+            </ul>
+        </nav>
+        </div>
+    </header>
+
+    <main>
+        <h1>Welkom op Mijn Website</h1>
+        <p>Dit is een voorbeeld van een website met een blauwe achtergrondkleur en een eenvoudig menu.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Mijn Website</p>
+    </footer>
+</body>
+</html>
