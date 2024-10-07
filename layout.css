@@ -12,6 +12,7 @@ tekst-container
 header {
     background-color: rgb(13, 13, 13);
     padding: 20px;
+    color: #fff
 }
 
 nav ul {
