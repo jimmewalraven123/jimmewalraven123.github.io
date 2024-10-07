@@ -29,6 +29,12 @@ nav a {
     color: black;
     font-weight: bold; }
 
+footer
+    { background-color: #373737;
+       color: #fff;
+       padding: 20px 0;
+       text-align: center; }
+
 .third-level-menu
     {
        position: absolute;
