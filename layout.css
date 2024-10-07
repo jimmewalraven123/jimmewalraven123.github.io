@@ -6,6 +6,9 @@ body {
     text-align: left;
 }
 
+.Tekst-container
+{padding: 10px }
+
 header {
     background-color: rgb(13, 13, 13);
     padding: 20px;
