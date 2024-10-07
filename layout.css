@@ -6,7 +6,7 @@ body {
     text-align: left;
 }
 
-.Tekst-container
+tekst-container
 {padding: 10px }
 
 header {
@@ -35,7 +35,7 @@ footer
        padding: 20px 0;
        text-align: center; }
 
-.third-level-menu
+third-level-menu
     {
        position: absolute;
        top: 0;
