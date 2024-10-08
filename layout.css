@@ -54,7 +54,7 @@ footer
        height: 30px;
        background: #11b825;
     }
-.third-level-menu > li:hover { background: #CCCCCC; }
+.third-level-menu > li:hover { background: #19ea32; }
     
     
 .second-level-menu
@@ -76,7 +76,7 @@ footer
        height: 30px;
        background: #11b825;
     }
-.second-level-menu > li:hover { background: #CCCCCC; }
+.second-level-menu > li:hover { background: #19ea32; }
     
     
 .top-level-menu
